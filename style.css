@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    /* background-color: brown; */
+}
+.row{
+    width: 100%;
+    height: 100vh;
+}
+/* .row .img{
+    background-image: url("01.jpeg, 02.jpeg, 03.jpeg");
+    background-position: center;
+    background-size: cover;
+    background-blend-mode: overlay;
+
+} */
